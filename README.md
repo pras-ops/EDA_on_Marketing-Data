@@ -1,7 +1,7 @@
 # EDA_on_Marketing-Data
 # Observation: 
-1 Our dataset do not have any null/nan/missing values.
-2 Our dataset is highly imbalanced.
+1. Our dataset do not have any null/nan/missing values.
+2. Our dataset is highly imbalanced.
 3 The attribute pdays seems to be important feature as there is a clear distinction in quartile ranges of pdays for target variable yes and no. 
 4 75% clients contacted through campaign are not previously contacted.
 5 Mean of pdays is 40.20 There are outliers as we can see from boxplot.
