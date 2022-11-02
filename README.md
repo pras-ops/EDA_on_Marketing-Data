@@ -1,5 +1,5 @@
 # EDA_on_Marketing-Data
-Observation: 
+# Observation: 
 Our dataset do not have any null/nan/missing values.
 Our dataset is highly imbalanced.
 The attribute pdays seems to be important feature as there is a clear distinction in quartile ranges of pdays for target variable yes and no. 
@@ -24,7 +24,7 @@ For most of the variables our pair plot is overlapping a lot. Pair plots of age-
 Over numerical features have very less correlation between them. 
 pdays and previous have higher correlation duration have a higher correlation with our target variable.
 
-Conclusion:
+#Conclusion:
 Our dataset consist of categorical and numerical features. 
 We have 16 independent features, out of these only half of them are important.'duration' is the most important feature while 'education' is the least important feature. 
 Month of May have seen the highest number of clients contacted but have the least success rate. 
